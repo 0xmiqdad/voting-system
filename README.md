@@ -1,5 +1,4 @@
 # voting-system
-# Web-Based Departmental Executive Voting System
 
 This project is a web-based voting system designed for departmental executive elections. It is built using HTML, CSS, JavaScript, PHP, and MySQL (using XAMPP). The system allows students to securely log in and cast their votes for the positions of President, Vice President, and Secretary.
 
