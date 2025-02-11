@@ -5,6 +5,7 @@ This project is a web-based voting system designed for departmental executive el
 
 ## Project Structure
 
+```php
 project/ 
     ├── backend/ 
     │ ├── authenticate.php 
@@ -17,6 +18,7 @@ project/
     │ ├── styles.css 
     │ └── validate.js 
     └── schema.sql
+```
 
 
 - **backend/**: Contains PHP scripts responsible for user authentication, database connections, vote processing, and logout functionality.
